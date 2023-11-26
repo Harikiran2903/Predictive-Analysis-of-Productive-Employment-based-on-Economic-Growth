@@ -1,0 +1,169 @@
+,Industry,Year,Contribution_to_Gdp,Growth_of_GDP,Wage_bracket_0_to_9999,Wage_bracket_10000_to_14999,Wage_bracket_15000_to_19999,Wage_bracket_20000_to_24999,Wage_bracket_25000_to_29999,Wage_bracket_30000_to_49999,Wage_bracket_50000_to_99999,Wage_bracket_100000_plus,TOTAL
+0,"Agriculture, Forestry And Fishing",2011,23.8,1.5,12141,36238,111549,100240,37712,23976,12935,6631,341422
+1,Mining And Quarrying,2011,0.7,7.1,59,101,944,1586,1965,2312,1752,13,8732
+2,Manufacturing,2011,9.6,3.4,632,1723,17205,50949,54427,76329,70040,5580,276885
+3,"Electricity, Gas, Steam And Air Conditioning Supply",2011,0.4,-4.4,,101,45,3229,690,1413,6830,30,12338
+4,"Water Supply; Sewerage, Waste Management And Remediation Activities",2011,0.7,3.0,,,,3036,1983,1970,818,83,7890
+5,Construction,2011,4.1,4.3,,714,2465,17669,16531,35028,32245,2593,107245
+6,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2011,10.5,7.3,56,2179,4363,20215,25842,52176,57676,8174,170681
+7,Transportation And Storage,2011,7.8,5.4,821,386,841,11032,16544,22798,22740,1296,76458
+8,Accommodation And Food Service Activities,2011,1.7,4.9,318,269,1245,9485,12600,27588,17001,2303,70809
+9,Information And Communication,2011,2.2,4.3,48,49,105,2684,8438,41299,24220,1389,78232
+10,Financial And Insurance Activities,2011,6.3,7.8,,,263,8004,2253,6161,24939,7697,49317
+11,Real Estate Activities,2011,4.4,3.6,156,417,60,379,807,916,741,109,3585
+12,"Professional, Scientific And Technical Activities",2011,2.1,4.1,2613,6949,985,6328,14552,14233,12356,1827,59843
+13,Administrative And Support Service Activities,2011,2.3,3.0,23,84,218,461,723,466,283,70,2328
+14,Public Administration And Defence; Compulsory Social Security,2011,5.0,2.5,1142,818,5425,27437,26831,66784,39709,3374,171520
+15,Education,2011,5.8,4.8,214,4600,44832,85383,126000,75081,37068,11262,384440
+16,Human Health And Social Work Activities,2011,2.4,3.5,,1245,11839,22546,32602,20522,9788,2975,101517
+17,"Arts, Entertainment And Recreation",2011,3.2,4.6,,35,332,631,909,574,275,84,2840
+18,Other Service Activities,2011,0.4,2.0,,349,3302,9493,14735,13001,9671,878,51429
+19,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2011,,,,292,772,17654,24002,32508,30382,,105610
+20,Activities Of Extraterritorial Organizations And Bodies,2011,,,,,,241,71,236,446,15,1009
+21,"Agriculture, Forestry And Fishing",2012,26.2,2.8,12008,35842,110330,99145,37300,23714,12794,6559,337691
+22,Mining And Quarrying,2012,1.1,19.0,61,104,973,1635,2026,2383,1806,13,9001
+23,Manufacturing,2012,11.0,-0.6,618,1686,16835,49852,53256,74686,68533,5460,270926
+24,"Electricity, Gas, Steam And Air Conditioning Supply",2012,1.1,13.6,,117,52,3730,797,1632,7890,35,14253
+25,"Water Supply; Sewerage, Waste Management And Remediation Activities",2012,0.9,3.1,,,,3299,2155,2141,889,90,8573
+26,Construction,2012,4.5,11.3,,773,2669,19133,17901,37931,34917,2808,116132
+27,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2012,7.8,7.0,65,2527,5059,23441,29966,60502,66880,9478,197917
+28,Transportation And Storage,2012,8.0,2.6,807,379,826,10840,16257,22402,22345,1273,75130
+29,Accommodation And Food Service Activities,2012,1.3,3.1,310,262,1212,9232,12264,26852,16547,2242,68920
+30,Information And Communication,2012,1.6,2.6,53,54,115,2941,9246,45255,26540,1522,85726
+31,Financial And Insurance Activities,2012,5.9,6.0,,,329,10009,2817,7704,31187,9625,61672
+32,Real Estate Activities,2012,8.0,4.0,161,430,62,391,833,946,765,113,3701
+33,"Professional, Scientific And Technical Activities",2012,1.0,6.2,2738,7282,1032,6631,15250,14916,12949,1915,62713
+34,Administrative And Support Service Activities,2012,1.3,2.3,44,161,419,885,1388,895,543,134,4470
+35,Public Administration And Defence; Compulsory Social Security,2012,4.4,4.0,1381,989,6561,33184,32451,80772,48026,4081,207446
+36,Education,2012,5.4,11.1,214,4605,44877,85468,126125,75156,37105,11273,384822
+37,Human Health And Social Work Activities,2012,1.7,-2.8,,1284,12211,23254,33626,21166,10095,3068,104705
+38,"Arts, Entertainment And Recreation",2012,0.1,-2.6,,80,755,1435,2067,1305,625,191,6459
+39,Other Service Activities,2012,0.6,4.0,,191,1811,5205,8080,7129,5303,481,28201
+40,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2012,0.6,1.5,nan,294,777,17761,24148,32705,30566,,106251
+41,Activities Of Extraterritorial Organizations And Bodies,2012,-2.6,,,,,249,73,244,461,16,1043
+42,"Agriculture, Forestry And Fishing",2013,26.4,5.4,12328,36797,113270,101786,38294,24395,13135,6733,346738
+43,Mining And Quarrying,2013,0.9,-4.2,64,109,1018,1710,2118,2492,1889,14,9414
+44,Manufacturing,2013,10.7,5.6,640,1744,17418,51580,55101,77225,70907,5649,280264
+45,"Electricity, Gas, Steam And Air Conditioning Supply",2013,1.1,9.8,,120,54,3840,821,1680,8123,36,14674
+46,"Water Supply; Sewerage, Waste Management And Remediation Activities",2013,0.9,0.9,,,,3656,2388,2372,985,100,9501
+47,Construction,2013,4.5,6.1,,867,2994,21459,20077,42542,39164,3149,130252
+48,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2013,8.0,8.4,70,2712,5431,25164,32168,64850,71796,10175,212366
+49,Transportation And Storage,2013,8.0,1.3,820,385,840,11017,16522,22769,22710,1294,76357
+50,Accommodation And Food Service Activities,2013,1.2,-4.6,331,280,1295,9869,13111,28706,17690,2397,73679
+51,Information And Communication,2013,1.4,12.5,57,58,124,3181,10000,48942,28702,1646,92710
+52,Financial And Insurance Activities,2013,6.6,8.2,,,357,10879,3062,8374,33896,10461,67029
+53,Real Estate Activities,2013,7.9,4.1,166,445,64,404,861,977,791,117,3825
+54,"Professional, Scientific And Technical Activities",2013,1.0,6.7,2856,7596,1077,6919,15908,15559,13507,1997,65419
+55,Administrative And Support Service Activities,2013,1.2,1.2,48,175,454,960,1506,971,589,146,4849
+56,Public Administration And Defence; Compulsory Social Security,2013,4.4,2.8,1450,1039,6888,34837,34067,84846,50419,4284,217830
+57,Education,2013,5.3,6.3,223,4796,46740,89016,131362,78326,38645,11741,400849
+58,Human Health And Social Work Activities,2013,1.6,7.7,,1383,13152,25047,36218,22798,10874,3305,112777
+59,"Arts, Entertainment And Recreation",2013,0.1,3.0,,82,779,1481,2133,1347,645,197,6664
+60,Other Service Activities,2013,0.6,7.3,,204,1910,5492,8525,7522,5595,508,29756
+61,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2013,0.5,1.5,,303,802,18336,24929,33764,31555,,109689
+62,Activities Of Extraterritorial Organizations And Bodies,2013,-2.6,,,,,257,76,252,475,16,1076
+63,"Agriculture, Forestry And Fishing",2014,27.5,4.4,13312,21703,81626,77773,49372,50452,33670,5373,333281
+64,Mining And Quarrying,2014,0.8,14.9,82,115,3924,1537,2391,2751,2050,,12850
+65,Manufacturing,2014,10.0,2.5,773,1101,13563,47022,61063,81879,76193,5862,287456
+66,"Electricity, Gas, Steam And Air Conditioning Supply",2014,1.0,7.3,,130,180,3379,923,1907,7709,1052,15280
+67,"Water Supply; Sewerage, Waste Management And Remediation Activities",2014,0.8,3.9,nan,nan,nan,3313,2685,3259,1056,103,10416
+68,Construction,2014,4.9,13.1,,574,2447,29289,16127,50060,41943,3259,143699
+69,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2014,8.0,6.9,94,1680,4343,25891,36375,75733,66604,9536,220256
+70,Transportation And Storage,2014,8.6,5.5,854,288,786,9811,18434,28129,20080,1339,79721
+71,Accommodation And Food Service Activities,2014,0.9,-16.7,476,225,1138,8788,14654,26579,18850,2455,73165
+72,Information And Communication,2014,1.2,14.5,96,93,1235,6097,10575,46253,31670,3144,99163
+73,Financial And Insurance Activities,2014,6.8,8.3,,,1408,7198,3527,9042,36031,10378,67584
+74,Real Estate Activities,2014,7.7,5.6,226,309,188,341,657,1118,923,121,3883
+75,"Professional, Scientific And Technical Activities",2014,1.0,4.1,2643,4521,970,6129,17753,18506,14538,1542,66602
+76,Administrative And Support Service Activities,2014,1.1,2.4,50,162,490,740,1497,1131,677,151,4898
+77,Public Administration And Defence; Compulsory Social Security,2014,4.5,5.6,1555,1216,29154,50015,35540,77568,32508,5880,233436
+78,Education,2014,5.2,7.8,980,7700,18893,67197,118790,118881,103555,13809,449805
+79,Human Health And Social Work Activities,2014,1.7,8.1,,881,10363,22138,40999,28139,12320,3419,118259
+80,"Arts, Entertainment And Recreation",2014,0.1,3.0,,107,794,1330,2079,1098,803,515,6726
+81,Other Service Activities,2014,0.6,6.5,,177,1452,4782,9583,8629,5348,518,30489
+82,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2014,0.5,1.5,,240,696,16573,28260,36941,29397,,112107
+83,Activities Of Extraterritorial Organizations And Bodies,2014,-2.5,,,,,195,86,295,312,220,1108
+84,"Agriculture, Forestry And Fishing",2015,30.2,5.3,10991,17833,85016,85634,48156,53091,33093,2932,336746
+85,Mining And Quarrying,2015,0.9,12.3,260,250,4517,1784,2807,3189,2389,,15196
+86,Manufacturing,2015,9.4,3.6,1076,1297,13891,49645,62759,85212,80974,5983,300837
+87,"Electricity, Gas, Steam And Air Conditioning Supply",2015,1.4,11.5,,82,155,3844,1024,2170,8834,1197,17306
+88,"Water Supply; Sewerage, Waste Management And Remediation Activities",2015,0.7,2.7,,,,3800,3101,3745,1284,772,12702
+89,Construction,2015,4.9,13.8,,5176,4231,31151,17369,53561,46783,4698,162969
+90,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2015,7.5,5.9,504,1856,4699,28068,39599,82229,72649,10260,239864
+91,Transportation And Storage,2015,8.1,8.0,1003,571,928,10451,19665,29996,21508,1490,85612
+92,Accommodation And Food Service Activities,2015,0.8,-1.3,231,152,592,9378,15688,28461,20276,2585,77363
+93,Information And Communication,2015,1.5,7.4,895,917,1408,6689,11637,50732,34834,3492,110604
+94,Financial And Insurance Activities,2015,6.7,9.4,,,1915,8038,3919,10074,40121,11606,75673
+95,Real Estate Activities,2015,7.5,7.2,237,326,194,358,692,1183,980,126,4096
+96,"Professional, Scientific And Technical Activities",2015,0.9,3.6,2813,4815,1009,6485,18797,19617,15481,1637,70654
+97,Administrative And Support Service Activities,2015,1.0,1.5,108,193,535,807,1639,1233,744,183,5442
+98,Public Administration And Defence; Compulsory Social Security,2015,4.3,5.5,2653,2335,30429,48922,34930,75968,30022,6021,231280
+99,Education,2015,4.9,4.9,2116,7122,21877,77983,140233,138169,120910,16196,524606
+100,Human Health And Social Work Activities,2015,1.7,5.8,,824,11104,23858,44428,30375,13348,3678,127615
+101,"Arts, Entertainment And Recreation",2015,0.1,1.5,,45,832,1403,2209,1153,852,534,7028
+102,Other Service Activities,2015,0.6,6.0,,504,1583,4097,10284,10267,5760,659,33154
+103,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2015,0.5,1.5,,312,899,16037,29698,38699,28711,,114356
+104,Activities Of Extraterritorial Organizations And Bodies,2015,-2.6,,,,,216,105,320,332,244,1217
+105,"Agriculture, Forestry And Fishing",2016,31.1,4.7,10991,17833,85016,85634,48156,53091,33093,2932,336746
+106,Mining And Quarrying,2016,0.8,9.5,260,250,4517,1784,2807,3189,2389,,15196
+107,Manufacturing,2016,9.3,3.1,1076,1297,13891,49645,62759,85212,80974,5983,300837
+108,"Electricity, Gas, Steam And Air Conditioning Supply",2016,1.9,9.5,,82,155,3844,1024,2170,8834,1197,17306
+109,"Water Supply; Sewerage, Waste Management And Remediation Activities",2016,0.7,5.8,,,,3800,3101,3745,1284,772,12702
+110,Construction,2016,5.1,9.9,,5176,4231,31151,17369,53561,46783,4698,162969
+111,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2016,7.2,3.7,504,1856,4699,28068,39599,82229,72649,10260,239864
+112,Transportation And Storage,2016,8.1,6.5,1003,571,928,10451,19665,29996,21508,1490,85612
+113,Accommodation And Food Service Activities,2016,0.7,13.3,231,152,592,9378,15688,28461,20276,2585,77363
+114,Information And Communication,2016,1.5,9.9,895,917,1408,6689,11637,50732,34834,3492,110604
+115,Financial And Insurance Activities,2016,7.1,6.9,,,1915,8038,3919,10074,40121,11606,75673
+116,Real Estate Activities,2016,7.6,8.8,237,326,194,358,692,1183,980,126,4096
+117,"Professional, Scientific And Technical Activities",2016,0.9,5.1,2813,4815,1009,6485,18797,19617,15481,1637,70654
+118,Administrative And Support Service Activities,2016,1.0,3.9,108,193,535,807,1639,1233,744,183,5442
+119,Public Administration And Defence; Compulsory Social Security,2016,3.9,5.6,2653,2335,30429,48922,34930,75968,30022,6021,231280
+120,Education,2016,4.4,5.3,2116,7122,21877,77983,140233,138169,120910,16196,524606
+121,Human Health And Social Work Activities,2016,1.7,4.8,,824,11104,23858,44428,30375,13348,3678,127615
+122,"Arts, Entertainment And Recreation",2016,0.1,5.4,,45,832,1403,2209,1153,852,534,7028
+123,Other Service Activities,2016,0.6,6.0,,504,1583,4097,10284,10267,5760,659,33154
+124,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2016,0.5,1.4,,312,899,16037,29698,38699,28711,,114356
+125,Activities Of Extraterritorial Organizations And Bodies,2016,-2.8,,,,,216,105,320,332,244,1217
+126,"Agriculture, Forestry And Fishing",2017,34.8,1.9,7225,13137,44255,28262,49063,133384,53516,3263,332105
+127,Mining And Quarrying,2017,0.8,4.5,258,248,3882,1770,2785,3164,2971,,15079
+128,Manufacturing,2017,8.0,0.5,1085,1308,9808,27820,44289,88576,124458,6034,303378
+129,"Electricity, Gas, Steam And Air Conditioning Supply",2017,1.8,8.9,,90,170,4206,1120,2374,9665,1310,18934
+130,"Water Supply; Sewerage, Waste Management And Remediation Activities",2017,0.7,2.6,,,,4356,3555,4293,1472,885,14562
+131,Construction,2017,5.6,8.5,,3133,4359,27638,17896,66198,43845,4840,167910
+132,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2017,7.4,5.7,431,1381,4910,13893,35886,90247,93506,10504,250758
+133,Transportation And Storage,2017,7.5,7.2,710,586,953,10730,9189,30796,33402,1530,87895
+134,Accommodation And Food Service Activities,2017,0.7,14.3,238,157,610,9671,16178,29350,21279,2296,79780
+135,Information And Communication,2017,1.3,11.0,748,971,1491,7084,13327,52922,36891,3699,117133
+136,Financial And Insurance Activities,2017,7.1,2.8,,,1891,8036,2869,9946,44504,7466,74712
+137,Real Estate Activities,2017,0.8,6.1,244,336,200,369,713,1219,1010,130,4220
+138,"Professional, Scientific And Technical Activities",2017,0.9,4.5,1739,3511,1054,6776,15640,20497,22895,1710,73823
+139,Administrative And Support Service Activities,2017,3.6,3.0,114,204,566,853,1733,1304,787,193,5754
+140,Public Administration And Defence; Compulsory Social Security,2017,4.0,6.5,1510,1850,24476,26544,15634,124197,91552,6831,292594
+141,Education,2017,1.5,5.1,1231,4532,14966,3435,58961,137885,282385,56221,559617
+142,Human Health And Social Work Activities,2017,0.1,4.3,,897,8090,11333,57963,47080,11390,6005,142759
+143,"Arts, Entertainment And Recreation",2017,0.6,7.0,,46,844,1423,2241,1170,864,542,7129
+144,Other Service Activities,2017,0.4,7.0,,527,1056,4287,10758,10743,6627,693,34691
+145,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2017,-2.0,1.6,,315,907,9534,22437,39039,43133,,115365
+146,Activities Of Extraterritorial Organizations And Bodies,2017,8.3,4.8,,,,226,110,336,348,256,1276
+147,"Agriculture, Forestry And Fishing",2018,34.2,6.4,11174,4391,11212,17399,25218,167268,97014,2931,336607
+148,Mining And Quarrying,2018,0.8,2.8,263,253,4567,1804,2838,3224,2415,,15364
+149,Manufacturing,2018,7.7,4.2,1100,1326,9203,12758,73061,108127,95899,6117,307592
+150,"Electricity, Gas, Steam And Air Conditioning Supply",2018,1.8,10.5,,91,171,4245,1131,2396,9756,1322,19112
+151,"Water Supply; Sewerage, Waste Management And Remediation Activities",2018,0.7,1.6,,,,4493,3667,4428,1518,913,15020
+152,Construction,2018,5.4,6.6,,3449,4454,20007,18285,45173,75251,4946,171565
+153,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,2018,7.4,6.3,547,2203,5100,14473,7020,48082,172093,10909,260426
+154,Transportation And Storage,2018,8.0,8.8,1062,605,983,11066,20822,31760,22773,1578,90647
+155,Accommodation And Food Service Activities,2018,0.7,16.6,244,160,624,9886,16538,30002,21752,2347,81553
+156,Information And Communication,2018,1.3,11.4,998,1022,1569,7456,14030,43493,50829,3893,123290
+157,Financial And Insurance Activities,2018,6.0,5.6,,,1914,6032,3916,10067,20888,32803,75621
+158,Real Estate Activities,2018,7.0,4.1,251,345,205,379,733,1252,1037,133,4336
+159,"Professional, Scientific And Technical Activities",2018,0.8,5.4,3050,3221,1094,7031,20381,21270,18786,1775,76608
+160,Administrative And Support Service Activities,2018,0.9,6.4,120,215,596,900,1827,1375,829,204,6067
+161,Public Administration And Defence; Compulsory Social Security,2018,3.5,6.1,2053,978,24814,11402,29555,178901,38295,9011,295009
+162,Education,2018,4.3,5.8,2327,3331,15555,12772,25193,265031,204814,47808,576831
+163,Human Health And Social Work Activities,2018,1.5,4.5,,960,6108,17810,36788,65229,17572,4287,148755
+164,"Arts, Entertainment And Recreation",2018,0.1,6.4,,46,857,1446,2277,1188,878,550,7243
+165,Other Service Activities,2018,0.6,6.7,,552,1735,4490,11270,11251,6312,722,36332
+166,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use,2018,0.4,1.6,nan,316,911,17245,15082,53200,29083,nan,nan
+167,Activities Of Extraterritorial Organizations And Bodies,2018,-1.9,1.1,nan,nan,nan,nan,nan,nan,nan,nan,115836
